@@ -1,1 +1,1 @@
-This is a basic CRUD operation using html, css, javascript . 
+This is a basic CRUD (Create, Read, Update, Delete) operation using HTML, CSS, and JavaScript. 
